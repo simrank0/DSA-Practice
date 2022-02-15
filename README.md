@@ -1,2 +1,2 @@
 # DSA-Practice
-Daily DSA Practice questions from LC or Striver's SDE sheet
+Daily DSA Practice questions from LC and Striver's SDE sheet
