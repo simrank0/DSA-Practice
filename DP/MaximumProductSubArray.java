@@ -2,7 +2,7 @@ package DP;
 
 
 
-class MaximumProductSubarray  {
+class MaximumProductSubArray  {
     public int maxProduct(int[] nums) {
 
         int result=Integer.MIN_VALUE;
