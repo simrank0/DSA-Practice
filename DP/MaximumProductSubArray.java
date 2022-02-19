@@ -1,6 +1,7 @@
 package DP;
 
 public class MaximumProductSubArray {
+
     public int maxProduct(int[] nums) {
 
         int result=Integer.MIN_VALUE;
